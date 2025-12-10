@@ -1,0 +1,10 @@
+python-telegram-bot>=20.0
+ctransformers
+requests
+wikipedia
+pyjokes
+# Optional: pin specific versions if needed
+# python-telegram-bot==20.4
+# ctransformers==0.5.0
+googletrans==4.0.0-rc1
+vaderSentiment
