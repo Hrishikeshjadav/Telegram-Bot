@@ -46,7 +46,7 @@ logging.basicConfig(
 )
 
 # YOUR TELEGRAM TOKEN
-TOKEN = "8024688902:AAGkrTWQxm0raHy2tW1RTMntZJWvYoH1hGk"
+TOKEN = "Your_telegram_token"
 
 # Global model variable
 llm = None
